@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode - 26. Remove Duplicates from Sorted Array/LeetCode - 26. Remove Duplicates from Sorted Array.iml" filepath="$PROJECT_DIR$/LeetCode - 26. Remove Duplicates from Sorted Array/LeetCode - 26. Remove Duplicates from Sorted Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode - 21. Merge Two Sorted Lists/Leetcode - 21. Merge Two Sorted Lists.iml" filepath="$PROJECT_DIR$/Leetcode - 21. Merge Two Sorted Lists/Leetcode - 21. Merge Two Sorted Lists.iml" />
+    </modules>
+  </component>
+</project>
