@@ -1,2 +1,2 @@
 # LeetCode
-I am solving and uploading the answers of LeetCode problems.
+I am solving and uploading the solutions of LeetCode problems.
