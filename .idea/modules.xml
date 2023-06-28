@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode - 26. Remove Duplicates from Sorted Array/LeetCode - 26. Remove Duplicates from Sorted Array.iml" filepath="$PROJECT_DIR$/LeetCode - 26. Remove Duplicates from Sorted Array/LeetCode - 26. Remove Duplicates from Sorted Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode2.iml" filepath="$PROJECT_DIR$/.idea/LeetCode2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode - 21. Merge Two Sorted Lists/Leetcode - 21. Merge Two Sorted Lists.iml" filepath="$PROJECT_DIR$/Leetcode - 21. Merge Two Sorted Lists/Leetcode - 21. Merge Two Sorted Lists.iml" />
     </modules>
   </component>
