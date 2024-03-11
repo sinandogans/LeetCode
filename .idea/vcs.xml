@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LeetCode - 55. Jump Game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LeetCode - 98. Validate Binary Search Tree" vcs="Git" />
   </component>
 </project>
